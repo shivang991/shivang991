@@ -1,4 +1,4 @@
-I am a web developer and aspiring to be game dev.
+I am a web developer and aspiring to be a gamedev.
 - I know JS/TS, PHP, Go, etc. and some frameworks, my fav: [Laravel](https://laravel.com/)
 - [Unity](https://unity.com/) and [Godot](https://godotengine.org/) a little bit
 - My hoby is drawing, I sometimes create 3D art
