@@ -1,4 +1,4 @@
-### Hi there 👋
+I know JS/TS, PHP, Go and some frameworks, reach me at shivangd@proton.me
 
 <!--
 **shivang991/shivang991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
